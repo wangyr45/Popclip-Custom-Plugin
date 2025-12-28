@@ -14,7 +14,7 @@
 
 1. 安装 Tampermonkey 脚本  
    打开并安装脚本：  
-   https://github.com/wangyr45/Popclip-Custom-Plugin/blob/main/jike-compose-autofill.user.js  
+   [https://github.com/wangyr45/Popclip-Custom-Plugin/blob/main/jike-compose-autofill.user.js  ](https://github.com/wangyr45/Popclip-Custom-Plugin/tree/main/jike-compose-autofill)
    安装后刷新即刻页面： https://web.okjike.com/following
 
 2. 配置 Popclip 动作  
