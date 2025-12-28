@@ -15,9 +15,10 @@
 1. 安装 Tampermonkey 脚本  
    打开并安装脚本：  
    [https://github.com/wangyr45/Popclip-Custom-Plugin/blob/main/jike-compose-autofill.user.js  ](https://github.com/wangyr45/Popclip-Custom-Plugin/tree/main/jike-compose-autofill)
+   
    安装后刷新即刻页面： https://web.okjike.com/following
 
-2. 配置 Popclip 动作  
+3. 配置 Popclip 动作  
    在 Popclip 中添加以下配置（Popclip Extension 定义）：
 
    ```
@@ -30,7 +31,7 @@
 
    图标说明：如需自定义图标，可从 https://icon-sets.iconify.design/ 选择。若未设置，默认使用 `name`。
 
-3. 使用方法  
+4. 使用方法  
    - 在任意页面选中一段内容  
    - 触发 Popclip，点击「Jike」  
    - 即可自动将选中内容传入即刻输入框
