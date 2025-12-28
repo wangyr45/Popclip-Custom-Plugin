@@ -18,7 +18,7 @@
    
    安装后刷新即刻页面： https://web.okjike.com/following
 
-3. 配置 Popclip 动作  
+3. 配置 Popclip 动作  （安装 Popclip 后，选中下面这段代码会自动出现安装）
    在 Popclip 中添加以下配置（Popclip Extension 定义）：
 
    ```
@@ -40,3 +40,17 @@
 - 若 Popclip 不显示该动作，请确认扩展已启用且匹配当前应用场景。
 - 若脚本未生效，请在 Tampermonkey 中确认脚本已启用，并重新加载即刻页面。
 - 由于网页端可能更新，脚本可能需要随即刻 DOM 结构变动进行调整。
+
+
+
+## 2️⃣ Popclip X 工具（）
+
+将选中的文本一键传入X（https://x.com/home）网页端的输入框，提升发布效率。
+
+   ```
+   #popclip
+   name: X Compose
+   icon: iconify:simple-icons:x
+   url: https://twitter.com/intent/tweet?text=***
+   clean query: true
+   ```
