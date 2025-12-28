@@ -2,7 +2,7 @@
 
 自己自制的一些 Popclip 插件。
 
-## Popclip 即刻工具（Jike Compose Autofill）
+## 1️⃣ Popclip 即刻工具（Jike Compose Autofill）
 
 将选中的文本一键传入即刻（Jike）网页端的输入框，提升发布效率。
 
